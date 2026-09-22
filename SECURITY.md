@@ -62,3 +62,27 @@ Get-FileHash ".\IdleOn - Main Account.vbs" -Algorithm SHA256
 Get-FileHash ".\IdleOn - Second Account.vbs" -Algorithm SHA256
 Get-FileHash ".\IdleOn - Both Accounts.vbs" -Algorithm SHA256
 Get-FileHash ".\IdleOn - Account Template.vbs" -Algorithm SHA256
+
+```
+
+A hash identifies the exact file contents at the time it was calculated. If the file changes, its hash changes.
+
+## Public repository safety
+
+The repository should contain only generic launcher scripts and documentation.
+
+Never upload local profile data or other private files just because they are needed on your own PC.
+
+## Reporting a concern
+
+Please open a GitHub issue describing the specific file and behavior you are concerned about.
+
+Do not post passwords, access tokens, cookies, or other sensitive information in a public issue.
+
+## Disclaimer
+
+This project is provided "as is" under the repository license.
+
+Users should review scripts before running them and should keep backups of important local data.
+
+This project is not affiliated with Valve, Steam, or the developers/publishers of Legends of IdleOn.
