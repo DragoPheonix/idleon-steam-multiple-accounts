@@ -4,7 +4,7 @@ This page is the **quick-start version** of the full guide in [README.md](README
 
 Use this when you already know the basics and just want to set up multiple accounts quickly.
 
-> This guide uses placeholders only. Replace `C:\\PATH\\TO\\LegendsOfIdleon.exe` with the real location of your game's executable.
+> This guide uses placeholders only. Replace `C:\PATH\TO\LegendsOfIdleon.exe` with the real location of your game's executable.
 
 ## What you need
 
@@ -26,7 +26,7 @@ Copy its full path.
 
 Example:
 
-`C:\\SteamLibrary\\steamapps\\common\\Legends of IdleOn\\LegendsOfIdleon.exe`
+`C:\SteamLibrary\steamapps\common\Legends of IdleOn\LegendsOfIdleon.exe`
 
 Your path will be different.
 
