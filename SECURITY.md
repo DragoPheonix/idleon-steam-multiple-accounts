@@ -59,3 +59,6 @@ For additional verification, users can calculate a SHA-256 hash of a downloaded 
 
 ```powershell
 Get-FileHash ".\IdleOn - Main Account.vbs" -Algorithm SHA256
+Get-FileHash ".\IdleOn - Second Account.vbs" -Algorithm SHA256
+Get-FileHash ".\IdleOn - Both Accounts.vbs" -Algorithm SHA256
+Get-FileHash ".\IdleOn - Account Template.vbs" -Algorithm SHA256
