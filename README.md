@@ -6,6 +6,16 @@ This repository contains ready-to-copy Windows Script Host (VBS) launchers and a
 
 > **Important:** This guide is written with placeholders on purpose. It contains no personal names, usernames, email addresses, computer names, drive letters, or private account information.
 
+## Before You Use This
+
+> **Important:** This setup has been tested only with the **Google Sign-In** method. Other sign-in methods have not been verified and may behave differently.
+
+The project has not verified whether the developers of Legends of IdleOn officially allow or support this multiple-account method. Review the game's current rules and Terms of Service yourself before using it.
+
+Use this setup at your own risk. Compatibility can change after game, Steam, or runtime updates.
+
+For the complete testing limitation, see [Google Sign-In testing disclaimer](google-signin-testing-disclaimer.md).
+
 ## What this setup does
 
 Normally, starting the game more than once can cause both instances to use the same local application profile.

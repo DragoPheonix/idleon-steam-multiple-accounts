@@ -6,6 +6,14 @@ Use this when you already know the basics and just want to set up multiple accou
 
 > This guide uses placeholders only. Replace `C:\PATH\TO\LegendsOfIdleon.exe` with the real location of your game's executable.
 
+## Before You Use This
+
+> **Important:** This setup has been tested only with the **Google Sign-In** method; other sign-in methods have not been verified and may behave differently.
+
+This project has not verified whether the developers of Legends of IdleOn officially allow or support this multiple-account method. Review the game's current rules and Terms of Service yourself, use the setup at your own risk, and expect compatibility to change after updates.
+
+See the [Google Sign-In testing disclaimer](google-signin-testing-disclaimer.md) for the complete testing limitation.
+
 ## What you need
 
 - Windows 10 or Windows 11
