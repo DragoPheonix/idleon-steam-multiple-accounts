@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Report a problem with the IdleOn multiple-account launchers
+title: "[Bug]: "
+labels: bug
+assignees: ''
+---
+
 # Bug report
 
 ## Before reporting
